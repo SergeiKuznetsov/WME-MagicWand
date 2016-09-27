@@ -4,7 +4,7 @@
 // @description         The very same thing as same tool in graphic editor: select "similar" colored area and create landmark out of it + Clone, Orthogonalize, Rotate and Resize for landmarks
 // @include         https://www.waze.com/editor/*
 // @include         https://www.waze.com/*/editor/*
-// @include         https://editor-beta.waze.com/*
+// @include         https://beta.waze.com/*
 // @version             1.0
 // @grant               none
 // @license             CC BY 4.0
